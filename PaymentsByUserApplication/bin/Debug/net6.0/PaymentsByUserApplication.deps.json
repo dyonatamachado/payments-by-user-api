@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PaymentsByUserApplication/1.0.0": {
+        "dependencies": {
+          "PaymentsByUserCore": "1.0.0"
+        },
+        "runtime": {
+          "PaymentsByUserApplication.dll": {}
+        }
+      },
+      "PaymentsByUserCore/1.0.0": {
+        "runtime": {
+          "PaymentsByUserCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentsByUserApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentsByUserCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

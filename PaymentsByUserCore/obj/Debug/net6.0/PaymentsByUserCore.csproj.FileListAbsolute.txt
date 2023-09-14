@@ -1,0 +1,12 @@
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\bin\Debug\net6.0\PaymentsByUserCore.deps.json
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\bin\Debug\net6.0\PaymentsByUserCore.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\bin\Debug\net6.0\PaymentsByUserCore.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.csproj.AssemblyReference.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.AssemblyInfoInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.AssemblyInfo.cs
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.csproj.CoreCompileInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\refint\PaymentsByUserCore.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\PaymentsByUserCore.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserCore\obj\Debug\net6.0\ref\PaymentsByUserCore.dll

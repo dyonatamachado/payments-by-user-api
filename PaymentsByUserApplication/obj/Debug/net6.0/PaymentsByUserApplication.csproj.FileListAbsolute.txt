@@ -1,0 +1,15 @@
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\bin\Debug\net6.0\PaymentsByUserApplication.deps.json
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\bin\Debug\net6.0\PaymentsByUserApplication.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\bin\Debug\net6.0\PaymentsByUserApplication.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\bin\Debug\net6.0\PaymentsByUserCore.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\bin\Debug\net6.0\PaymentsByUserCore.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.csproj.AssemblyReference.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.AssemblyInfoInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.AssemblyInfo.cs
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.csproj.CoreCompileInputs.cache
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.csproj.CopyComplete
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\refint\PaymentsByUserApplication.dll
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\PaymentsByUserApplication.pdb
+C:\Users\dyona\Pessoais\teste-mastersul\TesteBackendEFrontend\PaymentsByUser\PaymentsByUserApplication\obj\Debug\net6.0\ref\PaymentsByUserApplication.dll
